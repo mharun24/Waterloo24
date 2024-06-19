@@ -1,2 +1,2 @@
 all:
-	gcc -o main exercise.c
+	gcc -o main blurb.c
