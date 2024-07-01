@@ -1,2 +1,2 @@
 all:
-	gcc -o main blurb.c
+	gcc -o main CodeAI.c
