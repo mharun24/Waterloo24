@@ -1,2 +1,2 @@
 all:
-	gcc -o main CodeAI.c
+	gcc -o main trying.c
